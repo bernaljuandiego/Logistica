@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358249643945",
+    "firebase_url": "https://logistica-konrad.firebaseio.com",
+    "project_id": "logistica-konrad",
+    "storage_bucket": "logistica-konrad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358249643945:android:2c280f8ff86d83b5",
+        "android_client_info": {
+          "package_name": "co.edu.konradlorenz.logistica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358249643945-890shh627b3ckmc9he4ui0h67f6bk76q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.konradlorenz.logistica",
+            "certificate_hash": "f47df5d9fe7f9bbe09ae87faff936af0ae154459"
+          }
+        },
+        {
+          "client_id": "358249643945-2c0ec0k72upkh4rstm9dd84ou8j70fj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0b9TVxmcJrXW4tUWLzVn4VwVTG85lJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358249643945-2c0ec0k72upkh4rstm9dd84ou8j70fj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
